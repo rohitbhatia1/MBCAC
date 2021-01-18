@@ -1,0 +1,3 @@
+Devi Changes
+1) MFA
+2) Email templates
